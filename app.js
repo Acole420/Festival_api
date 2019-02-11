@@ -7,150 +7,150 @@ app.get("/url", (req, res, next) => {
             {
                 album: 'Venganza',
                 autor: 'Obus',
-                nombreImagen: 'obus_venga.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_venga.png'
 
             },
             {
                 album: 'Vamos Muy Bien',
                 autor: 'Obus',
-                nombreImagen: 'obus_vamos.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_vamos.png'
             },
             {
                 album: 'Siente El Rock And Roll',
                 autor: 'Obus',
-                nombreImagen: 'obus_sient.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_sient.png'
             },
             {
                 album: 'Segundos Fuera',
                 autor: 'Obus',
-                nombreImagen: 'obus_segun.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_segun.png'
             }
             ,
             {
                 album: 'Poderoso Como Un Trueno',
                 autor: 'Obus',
-                nombreImagen: 'obus_Poder.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_poder.png'
             }
             ,
             {
                 album: 'Otra Ves En La Ruta',
                 autor: 'Obus',
-                nombreImagen: 'obus_otra.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_otra.png'
             }
             ,
             {
                 album: 'Pega Con Fuerza',
                 autor: 'Obus',
-                nombreImagen: 'obus_pega.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_pega.png'
             }
             ,
             {
                 album: 'En Directo 87',
                 autor: 'Obus',
-                nombreImagen: 'obus_direc.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_direc.png'
             }
             ,
             {
                 album: 'El Que Mas',
                 autor: 'Obus',
-                nombreImagen: 'obus_elque.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_elque.png'
             }
             ,
             {
                 album: 'Desde El Fondo Del Abismo',
                 autor: 'Obus',
-                nombreImagen: 'obus_desde.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_desde.png'
             }
             ,
             {
                 album: 'De Madrid Al Infierno',
                 autor: 'Obus',
-                nombreImagen: 'obus_madri.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_madri.png'
             }
             ,
             {
                 album: 'Dejarse La Piel',
                 autor: 'Obus',
-                nombreImagen: 'obus_dejar.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_dejar.png'
             }
             ,
             {
                 album: 'Preparate',
                 autor: 'Obus',
-                nombreImagen: 'obus_prepa.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_prepa.png'
             }
             ,
             {
                 album: 'Callate',
                 autor: 'Obus',
-                nombreImagen: 'obus_calla.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_calla.png'
             }
             ,
             {
                 album: '666',
                 autor: 'Angeles Del Infierno',
-                nombreImagen: 'angel_666fr.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_666fr.png'
             }
             ,
             {
                 album: 'A Cara O Cruz',
                 autor: 'Angeles Del Infierno',
-                nombreImagen: 'angel_acara.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_acara.png'
             }
             ,
             {
                 album: 'Diabolicca',
                 autor: 'Angeles Del Infierno',
-                nombreImagen: 'angel_diabo.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_diabo.png'
             }
             ,
             {
                 album: 'Joven Para Morir',
                 autor: 'Angeles Del Infierno',
-                nombreImagen: 'angel_Joven.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_joven.png'
             }
             ,
             {
                 album: 'Pacto Con El Diablo',
                 autor: 'Angeles Del Infierno',
-                nombreImagen: 'angel_pacto.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_pacto.png'
             }
             ,
             {
                 album: 'Todos Somos Angeles',
                 autor: 'Angeles Del Infierno',
-                nombreImagen: 'angel_todos.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_todos.png'
             }
             ,
             {
                 album: 'Cuentos Para Mayores',
                 autor: 'Lujuria',
-                nombreImagen: 'lujur_cuent.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_cuent.png'
             }
             ,
             {
                 album: 'Estrellas Del Porno',
                 autor: 'Lujuria',
-                nombreImagen: 'lujur_estre.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_estre.png'
             }
             ,
 
             {
                 album: 'Republica Popular Del Coito',
                 autor: 'Lujuria',
-                nombreImagen: 'lujur_repub.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_repub.png'
             }
             ,
             {
                 album: 'Sin Parar De Pecar',
                 autor: 'Lujuria',
-                nombreImagen: 'lujur_pecar.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_parar.png'
             }
             ,
             {
                 album: 'Un Poquito de Rock n Roll',
                 autor: 'Lujuria',
-                nombreImagen: 'lujur_unpoq.png'
+                nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_unpoq.png'
             }
             ,
 
@@ -160,6 +160,6 @@ app.get("/url", (req, res, next) => {
     );
 });
 
-app.listen(3000, () => {
-    console.log("Server running on port 3000");
+app.listen(8080, () => {
+    console.log("Server running on port 8080");
 });
