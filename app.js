@@ -5,6 +5,7 @@ app.get("/url", (req, res, next) => {
     res.json(
         [
             {
+                id: 0,
                 album: 'Preparate',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_prepa.png',
@@ -19,6 +20,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 1,
                 album: 'Poderoso Como Un Trueno',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_poder.png',
@@ -37,6 +39,7 @@ app.get("/url", (req, res, next) => {
 
             ,
             {
+                id: 2,
                 album: 'Venganza',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_venga.png',
@@ -55,6 +58,7 @@ app.get("/url", (req, res, next) => {
 
             },
             {
+                id: 3,
                 album: 'Vamos Muy Bien',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_vamos.png',
@@ -74,6 +78,7 @@ app.get("/url", (req, res, next) => {
                 informacion: 'Vamos Muy Bien (recopilatorio, 2006).'
             },
             {
+                id: 4,
                 album: 'Siente El Rock And Roll',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_sient.png',
@@ -97,6 +102,7 @@ app.get("/url", (req, res, next) => {
                 informacion: 'Siente el Rock and Roll (4 canciones nuevas y actualización de grandes temas, 2015).'
             },
             {
+                id: 5,
                 album: 'Segundos Fuera',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_segun.png',
@@ -116,6 +122,7 @@ app.get("/url", (req, res, next) => {
             ,
 
             {
+                id: 6,
                 album: 'Otra Ves En La Ruta',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_otra.png',
@@ -134,6 +141,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 7,
                 album: 'Pega Con Fuerza',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_pega.png',
@@ -154,6 +162,8 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 0,
+                id: 8,
                 album: 'En Directo 87',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_direc.png',
@@ -173,6 +183,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 9,
                 album: 'El Que Mas',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_elque.png',
@@ -191,6 +202,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 10,
                 album: 'Desde El Fondo Del Abismo',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_desde.png',
@@ -211,6 +223,8 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 0,
+                id: 11,
                 album: 'De Madrid Al Infierno',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_madri.png',
@@ -231,6 +245,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 12,
                 album: 'Dejarse La Piel',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_dejar.png',
@@ -250,6 +265,7 @@ app.get("/url", (req, res, next) => {
             ,
 
             {
+                id: 13,
                 album: 'Callate',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_calla.png',
@@ -270,6 +286,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 14,
                 album: '666',
                 autor: 'Angeles Del Infierno',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_666fr.png',
@@ -288,6 +305,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 15,
                 album: 'A Cara O Cruz',
                 autor: 'Angeles Del Infierno',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_acara.png',
@@ -308,6 +326,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 16,
                 album: 'Diabolicca',
                 autor: 'Angeles Del Infierno',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_diabo.png',
@@ -327,6 +346,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 17,
                 album: 'Joven Para Morir',
                 autor: 'Angeles Del Infierno',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_joven.png',
@@ -345,6 +365,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 18,
                 album: 'Pacto Con El Diablo',
                 autor: 'Angeles Del Infierno',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_pacto.png',
@@ -363,6 +384,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 19,
                 album: 'Todos Somos Angeles',
                 autor: 'Angeles Del Infierno',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/angel_todos.png',
@@ -385,6 +407,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 20,
                 album: 'Cuentos Para Mayores',
                 autor: 'Lujuria',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_cuent.png',
@@ -405,6 +428,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 21,
                 album: 'Estrellas Del Porno',
                 autor: 'Lujuria',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_estre.png',
@@ -422,6 +446,7 @@ app.get("/url", (req, res, next) => {
             ,
 
             {
+                id: 22,
                 album: 'Republica Popular Del Coito',
                 autor: 'Lujuria',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_repub.png',
@@ -441,6 +466,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 23,
                 album: 'Sin Parar De Pecar',
                 autor: 'Lujuria',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_parar.png',
@@ -460,6 +486,7 @@ app.get("/url", (req, res, next) => {
             }
             ,
             {
+                id: 24,
                 album: 'Un Poquito de Rock n Roll',
                 autor: 'Lujuria',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/lujur_unpoq.png',
