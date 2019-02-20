@@ -44,17 +44,17 @@ app.get("/url", (req, res, next) => {
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_venga.png',
                 trackList: [
-                    '1 	Cara De Niña 	3:20',
-                    '2 	Venganza 	4:11',
-                    '3 	Otra Vez En La Ruta 	2:50',
-                    '4 	El Destino Jugó Sus Cartas 	4:01',
-                    '5 	Como Una Pitón 	4:33',
-                    '6 	Castigo Infernal 	3:46',
-                    '7 	V.I.P. 	3:41',
-                    '8 	Zona Militar 	3:22',
+                    '1  - Cara De Niña 	3:20',
+                    '2 	- Venganza 	4:11',
+                    '3  -	Otra Vez En La Ruta 	2:50',
+                    '4 	- El Destino Jugó Sus Cartas 	4:01',
+                    '5 	- Como Una Pitón 	4:33',
+                    '6 	-Castigo Infernal 	3:46',
+                    '7 	- V.I.P. 	3:41',
+                    '8 	- Zona Militar 	3:22',
                 ],
                 ano: 2000,
-                informacion: 'Venganza'
+                informacion: ' una banda de rock llamada Venganza, sin mucha repercusión en el panorama musical. Paco, por otro lado, intentaba convencer a sus antiguos compañeros para reunir la banda. Justo una semana después de que dimitiera Fortu como cantante de Saratoga, Venganza se separan, y Obús vuelven a formarse.'
 
             },
             {
@@ -63,16 +63,16 @@ app.get("/url", (req, res, next) => {
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_vamos.png',
                 trackList: [
-                    '1 	Va A Estallar El Obús 	7:22',
-                    '2 	Pesadilla Nuclear 	4:26',
-                    '3 	Sólo Lo Hago En Mi Moto 	4:45',
-                    '4 	Dosis De Heavy Metal 	3:48',
-                    '5 	Préstame Amigo Tu Cabeza 	4:00',
-                    '6 	Dinero, Dinero 	4:04',
-                    '7 	Dame Amor 	3:46',
-                    '8 	Buscando Acción 	3:40',
-                    '9 	La Invasión De Las Máquinas 	3:47',
-                    '10 	Prohibido Hacer Rock 	3:11'
+                    '1  - 	Va A Estallar El Obús 	7:22',
+                    '2 	- Pesadilla Nuclear 	4:26',
+                    '3 	- Sólo Lo Hago En Mi Moto 	4:45',
+                    '4 	- Dosis De Heavy Metal 	3:48',
+                    '5 	- Préstame Amigo Tu Cabeza 	4:00',
+                    '6 	- Dinero, Dinero 	4:04',
+                    '7 	- Dame Amor 	3:46',
+                    '8 	- Buscando Acción 	3:40',
+                    '9 	- La Invasión De Las Máquinas 	3:47',
+                    '10 - Prohibido Hacer Rock 	3:11'
                 ],
                 ano: 2006,
                 informacion: 'Vamos Muy Bien (recopilatorio, 2006).'
@@ -82,7 +82,7 @@ app.get("/url", (req, res, next) => {
                 album: 'Siente El Rock And Roll',
                 autor: 'Obus',
                 nombreImagen: 'https://s3.us-east-2.amazonaws.com/acole88/Subir/obus_sient.png',
-                trackList: ['1 	Siente El Rock And Roll (Canción Inédita)',
+                trackList: ['1 	-Siente El Rock And Roll (Canción Inédita)',
                     '2 	Vamos De Concierto (Canción Inédita) 	',
                     '3 	Lola (Canción Inédita) 	',
                     '4 	Eres Mi Estrella (Canción Inédita)',
